@@ -1,4 +1,5 @@
 #!/bin/sh
 touch original.txt 
-cp copy.txt
-ls -l
+cp original.txt  copy.txt
+ls -l original.txt 
+ls -l copy.txt
