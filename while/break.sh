@@ -8,4 +8,3 @@ do
 	echo "Number: $i"
 done
 exit 0
-

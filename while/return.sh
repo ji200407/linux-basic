@@ -1,5 +1,5 @@
 #!/bin/sh
-function say_hello() {
+function say_hello {
 	echo "Hello"
 	return 0
 }
